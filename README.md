@@ -2,6 +2,8 @@
 Analyzing average income in the US by census tracts
 
 Authors: Luis Ahumada, Noah Feldman, Jake Lieberfarb, Becca Blacker 
+Class: Introduction to Data Science at George Washington University
+Professor: Edwin Lo
 
 America is a highly diverse country. It is not only diverse in terms of ethnicity, but also in terms of income, industry, and law. This opens the doors for a variety of possible interactions between these variables. What factors drive the way that income is distributed in the United States? What factors reliably predict whether the average income per capita in a given area is high or low? In this analysis, several models were used to persue these questions, and also investigate how these models differ in the ways that they answer these questions.
 
