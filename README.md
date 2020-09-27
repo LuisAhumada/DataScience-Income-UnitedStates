@@ -1,6 +1,8 @@
 # DataScience-Income-UnitedStates
 Analyzing average income in the US by census tracts
 
+Final Markdown report: https://luisahumada.github.io/DataScience-Income-UnitedStates/FinalPaperDS.html
+
 Authors: Luis Ahumada, Noah Feldman, Jake Lieberfarb, Becca Blacker 
 
 Class: Introduction to Data Science at George Washington University
