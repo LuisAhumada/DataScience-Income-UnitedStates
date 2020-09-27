@@ -2,6 +2,7 @@
 Analyzing average income in the US by census tracts
 
 Authors: Luis Ahumada, Noah Feldman, Jake Lieberfarb, Becca Blacker 
+
 Class: Introduction to Data Science at George Washington University
 Professor: Edwin Lo
 
